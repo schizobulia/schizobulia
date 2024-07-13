@@ -1,12 +1,12 @@
 
-### 目前主要方向是前端 👋
+### The main direction at present is front-end 👋
 
-### 正在学习编译器和量化交易相关的知识
+### I am learning about compilers and quantitative trading.
 
-### 正在看的书
+### Books I'm reading
 - Crafting Interpreters
 
-### 做过的项目
+### Projects done
 - [ave-v1](https://github.com/schizobulia/ave-v1)
 - [fc](https://github.com/schizobulia/fc)
 - [antlrv4-js-css](https://github.com/schizobulia/antlrv4-js-css)
